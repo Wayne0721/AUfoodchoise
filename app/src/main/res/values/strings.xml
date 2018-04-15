@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">真理好食在</string>
+    <string-array name="form">
+        <item>主食篩選</item>
+        <item>店家篩選</item>
+        <item>價格篩選</item>
+    </string-array>
+    <string-array name="form2set1">
+        <item>麵食</item>
+        <item>飯食</item>
+        <item>套餐</item>
+    </string-array>
+    <string-array name="form2set2">
+        <item>中式</item>
+        <item>西式</item>
+        <item>越式</item>
+        <item>韓式</item>
+    </string-array>
+    <string-array name="form2set3">
+        <item>99元以下</item>
+        <item>100元~150元</item>
+        <item>150元以上</item>
+    </string-array>
+    <string-array name="search">
+        <item>店家菜色查詢</item>
+        <item>主食類別查詢</item>
+        <item>價格範圍查詢</item>
+    </string-array>
+    <string-array name="searchset1">
+        <item>food</item>
+        <item>藍和風</item>
+    </string-array>
+</resources>

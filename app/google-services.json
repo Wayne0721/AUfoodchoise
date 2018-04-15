@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1053955591525",
+    "firebase_url": "https://aufoodchoise.firebaseio.com",
+    "project_id": "aufoodchoise",
+    "storage_bucket": "aufoodchoise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053955591525:android:a00f81c5a5203fe7",
+        "android_client_info": {
+          "package_name": "com.example.qoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053955591525-t513f0j96f865vpu15f5lh5uefccomnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qoo",
+            "certificate_hash": "f2bdcdbec87d39eca7c8b5484577098c1e768eff"
+          }
+        },
+        {
+          "client_id": "1053955591525-045euti6s55pefsd8ennbng51m45bh4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi-Gwor4enXQXw44XVyabJjQ2jSZpcj0Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053955591525-045euti6s55pefsd8ennbng51m45bh4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
